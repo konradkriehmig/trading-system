@@ -6,7 +6,7 @@ The physical proximity is what makes my ping faster than yours if you are not in
 
 I have high computing power in my VM that is useful for intensive backtesting (tbd)
 
-## Latency Results (pings, trade algos to be implemented in another project)
+## Latency Results (pings)
 - **Dublin → S&P data**: 81ms average
 - **East US VM → S&P data**: 6ms average (92% latency reduction from my laptop)
 - **Citadel → S&P data**: >1ms according to Claude
