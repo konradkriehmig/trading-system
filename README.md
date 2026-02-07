@@ -18,10 +18,10 @@ Can you be faster than me? :) --> if you want to try:
 
 # Setup
 
-0. go to Alpaca, create account, get API keys for paper trading from your dashboard
-1. clone repo in VS code
-2. in VS terminal bash: pip install -r requirements.txt
-3. in VS terminal bash:
+1. go to Alpaca, create account, get API keys for paper trading from your dashboard
+2. clone repo in VS code
+3. in VS terminal bash: pip install -r requirements.txt
+4. in VS terminal bash:
    $env:ALPACA_API_KEY="your-key-here"
    $env:ALPACA_SECRET_KEY="your-secret-here"
 5. go
