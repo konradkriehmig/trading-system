@@ -11,6 +11,9 @@ I have high computing power in my VM that is useful for intensive backtesting (t
 - **East US VM → S&P data**: 6ms average (92% latency reduction from my laptop)
 - **Citadel → S&P data**: >1ms according to Claude
 
+![asdf](./assets/preview.png)
+![asdf2](./assets/preview_(1).png)
+
 ## Infrastructure 
 ![Built in Azure](./assets/infra.png)
 
