@@ -12,7 +12,7 @@ I have high computing power in my VM that is useful for intensive backtesting (t
 - **Citadel → S&P data**: >1ms according to Claude
 
 ![asdf](./assets/preview.png)
-![asdf2](./assets/preview_(1).png)
+![asdf2](./assets/preview2.png)
 
 ## Infrastructure 
 ![Built in Azure](./assets/infra.png)
