@@ -4,7 +4,7 @@ I deployed a high-performance VM as close as I can to the NYSE.
 
 1. The physical proximity is what makes my ping faster than yours if you are not in US east.
 
-2. I have high computing power in my VM that is useful for intensive backtesting (tbd)
+2. I have high computing power in my VM that is useful for intensive backtesting later.
 
 ## Latency Results (pings)
 - **My Laptop (Dublin) → S&P data**: 81ms average
