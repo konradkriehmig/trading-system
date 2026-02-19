@@ -16,9 +16,7 @@ My Laptop:
 ![asdf3](./assets/preview3.png)
 
 My new fast Machine:
-![asdf2](./assets/preview2.png)
-
-<img width="611" height="391" alt="image" src="https://github.com/user-attachments/assets/24f838b1-94a6-41a9-9f16-a866d8d2dc70" />
+<img width="811" height="591" alt="image" src="https://github.com/user-attachments/assets/24f838b1-94a6-41a9-9f16-a866d8d2dc70" />
 
 
 ## Infrastructure 
